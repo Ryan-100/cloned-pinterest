@@ -1,1 +1,1 @@
-web: gunicorn pinterest.wsgi
+web: gunicorn pinterest.wsgi --log-file -

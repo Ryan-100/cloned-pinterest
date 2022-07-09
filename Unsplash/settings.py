@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-w)@38-s^%0dotw*s_b&b)*rm23*v^e3$q4h&i7m&uwr&m(_#-z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["cloned-pinterest.herokuapp.com","127.0.0.1"]
 
 
 # Application definition
