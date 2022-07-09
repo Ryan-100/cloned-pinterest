@@ -1,1 +1,1 @@
-web: gunicorn pinterest.wsgi --log-file -
+web: gunicorn Unsplash.wsgi --log-file -
